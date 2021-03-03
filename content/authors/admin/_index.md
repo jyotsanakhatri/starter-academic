@@ -1,6 +1,6 @@
 ---
 title: Jyotsana Khatri
-role: Research Scholar at Indian Institute of Technology Bombay
+role: Research Scholar
 avatar_filename: profilepicture.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
