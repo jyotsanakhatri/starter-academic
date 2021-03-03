@@ -25,7 +25,11 @@ organizations:
   - name: Indian Institute of Technology Bombay
     url: ""
 education:
-  courses: []
+  courses:
+    - course: PhD (2017-2022)
+      institution: Indian Institute of Technology Bombay
+    - course: M.Tech. (Machine Learning) (2016)
+      institution: DAIICT, Gandhinagar
 email: ""
 superuser: true
 highlight_name: false
