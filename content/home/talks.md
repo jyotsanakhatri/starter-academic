@@ -7,7 +7,7 @@ title: Talks and Tutorials
 subtitle: null
 active: true
 content:
-  page_type: talks
+  page_type: project
   count: 5
   filters:
     author: ""
