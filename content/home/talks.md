@@ -7,18 +7,16 @@ title: Talks and Tutorials
 subtitle: null
 active: true
 content:
-  page_type: event
+  page_type: publication
   count: 5
-  filters:
-    author: ""
-    category: ""
-    tag: ""
-    exclude_featured: false
-    exclude_future: false
-    exclude_past: false
-    publication_type: ""
   offset: 0
   order: desc
+  filters:
+    tag: ""
+    category: ""
+    publication_type: ""
+    author: ""
+    exclude_featured: true
 design:
   view: 2
 ---
