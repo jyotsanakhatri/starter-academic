@@ -11,8 +11,8 @@ publication: Proceedings of the 28th International Conference on Computational
 draft: false
 featured: false
 image:
-  filename: featured
-  focal_point: Smart
+  filename: ""
+  focal_point: ""
   preview_only: false
 date: 2021-03-03T07:42:41.155Z
 ---
