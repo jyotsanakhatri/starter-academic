@@ -7,7 +7,7 @@ title: Talks and Tutorials
 subtitle: null
 active: true
 content:
-  page_type: event
+  page_type: talks
   count: 5
   filters:
     author: ""
