@@ -5,7 +5,7 @@ publication_types:
 authors:
   - JyotsanaKhatri
   - PushpakBhattacharyya
-doi: https://www.aclweb.org/anthology/2020.coling-main.383.pdf
+doi: 10.18653/v1/2020.coling-main.383
 publication: Proceedings of the 28th International Conference on Computational
   Linguistics, pages 4334–4339 Barcelona, Spain (Online), December 8-13, 2020
 draft: false
