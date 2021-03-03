@@ -4,7 +4,10 @@ role: Research Scholar
 avatar_filename: profilepicture.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
-interests: []
+interests:
+  - Machine Translation
+  - Cross-lingual embeddings
+  - Meta Learning
 social:
   - icon: envelope
     icon_pack: fas
