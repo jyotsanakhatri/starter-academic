@@ -1,7 +1,7 @@
 ---
 title: Jyotsana Khatri
 role: Research Scholar
-avatar_filename: DP.jpg
+avatar_filename: profilepicture.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
