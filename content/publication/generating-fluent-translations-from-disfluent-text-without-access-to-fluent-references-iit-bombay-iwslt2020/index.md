@@ -17,5 +17,5 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2020
+date:
 ---
