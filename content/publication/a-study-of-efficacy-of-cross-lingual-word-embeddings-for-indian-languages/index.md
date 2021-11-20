@@ -15,4 +15,5 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
+date: 2020-03-03T10:04:20.254Z
 ---
