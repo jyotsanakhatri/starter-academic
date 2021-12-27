@@ -9,7 +9,7 @@ authors:
   - Pushpak Bhattacharyya
 doi:
 publication: "To appear in Journal of Machine Translation, December 2021"
-publication_short: WMT 2021
+publication_short: JMT, Dec 2021
 draft: false
 featured: false
 image:
